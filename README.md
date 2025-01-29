@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to type coercion during arithmetic operations. The `bug.js` file shows the unexpected behavior of the '+' and '-' operators when used with a mixture of number and string data types.  The `bugSolution.js` file presents the solution.
